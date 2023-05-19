@@ -9,9 +9,9 @@ Classe criada para exibir mensagens personalizadas, é uma substituta do message
 
 # 🔨: Funcionalidades do projeto
 
-- `MsgBox('seu texto', tpYesNo)`: mensagem com pergunta de sim ou nao 
-- `MsgBox('seu texto', tpErro)`: mensagem de erro com a opçao de ok
-- `MsgBox('seu texto', tpOk)`: mensagem de confirmacao com a opçao de ok
+- `MsgBox('seu texto', tpYesNo)`: Mensagem com pergunta de sim ou não 
+- `MsgBox('seu texto', tpErro)`: Mensagem de erro com a opção de ok
+- `MsgBox('seu texto', tpOk)`: Mensagem de confirmção com a opção de ok
 
 
 # 🦾: Exemplo de uso
@@ -29,7 +29,7 @@ end;
 
 # Autor
 
-|[<img src="https://avatars.githubusercontent.com/u/90877034?v=4" width=115><br><sub>André Lima</sub>](https://github.com/andreCLima)|
+[<img src="https://avatars.githubusercontent.com/u/90877034?v=4" width=115><br><sub>André Lima</sub>](https://github.com/andreCLima)
 
 
 
