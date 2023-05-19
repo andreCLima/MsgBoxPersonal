@@ -4,7 +4,7 @@ Classe criada para exibir mensagens personalizadas. Nela é possivel exibir foto
 
 ![image](https://github.com/andreCLima/MsgBoxPersonal/blob/main/image.png)
 
-![image](https://github.com/andreCLima/MsgBoxPersonal/assets/90877034/a8f8c5f8-f73e-4bad-a2da-66c022c9aaa0)
+![image](https://github.com/andreCLima/MsgBoxPersonal/blob/main/image2.png)
 
 
 # 🔨: Funcionalidades do projeto
