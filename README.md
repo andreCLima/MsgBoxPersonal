@@ -7,6 +7,31 @@ Classe criada para exibir mensagens personalizadas, é uma substituta do message
 ![image](https://github.com/andreCLima/MsgBoxPersonal/assets/90877034/a8f8c5f8-f73e-4bad-a2da-66c022c9aaa0)
 
 
+# 🔨: Funcionalidades do projeto
+
+- `MsgBox('seu texto', tpYesNo)`: mensagem com pergunta de sim ou nao 
+- `MsgBox('seu texto', tpErro)`: mensagem de erro com a opçao de ok
+- `MsgBox('seu texto', tpOk)`: mensagem de confirmacao com a opçao de ok
+
+
+# 🦾: Exemplo de uso
+```pascal
+{$R *.dfm}
+
+uses Util.MsgBox;
+
+procedure TForm1.Button1Click(Sender: TObject);
+begin
+  if MsgBox('Deseja continuar?', tpYesNo) then
+    ShowMessage('ok');
+end;
+```
+
+# Autor
+
+|[<img src="https://avatars.githubusercontent.com/u/90877034?v=4" width=115><br><sub>André Lima</sub>](https://github.com/andreCLima)|
+
+
 
 
 
